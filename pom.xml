@@ -39,7 +39,7 @@
 							<provider>MC</provider>
 							<muleVersion>4.4.0</muleVersion>
 							<!-- reads credentials from settings.xml -->
-							<server>cloudhub-deploy</server>
+							<!-- <server>cloudhub-deploy</server> -->
 							
 							<connectedAppGrantType>client_credentials</connectedAppGrantType>
 							<connectedAppClientId>${ap.ca.client_id}</connectedAppClientId>
